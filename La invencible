@@ -1,0 +1,7 @@
+echo "# la-invenci-n-de-la-plata" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Boruto12356/la-invenci-n-de-la-plata.git
+ git push -u origen principal
